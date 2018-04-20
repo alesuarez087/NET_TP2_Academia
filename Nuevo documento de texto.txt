@@ -1,0 +1,41 @@
+   public enum FormModes { Alta, Baja, Modificacion }
+
+    public FormModes FormMode
+    {
+        get
+        {
+            return (FormModes)this.ViewState["FormMode"];
+        }
+        set
+        {
+            this.ViewState["FormMode"] = value;
+        }
+    }
+
+    private int SelectedID //guarda ID de la entidad actual
+    {
+        get
+        {
+            if (this.ViewState["SelectedID"] != null) return (int)this.ViewState["Selected"];
+            else return 0;
+        }
+        set
+        {
+            this.ViewState["SelectedID"] = value;
+        }
+    }
+
+    private bool IsEntitySelected //devuelve null si SelectedID = 0
+    {
+        get { return this.SelectedID != 0; }
+    }
+
+    private virtual void MapearDeDatos() { } //muestra los datos de varias a pantalla
+
+    private virtual void MapearADatos() { } //capta los datos de pantalla hacia variable local
+
+    private virtual void Save() { } //guarda en BD los datos de variable local
+
+    private virtual void EnableForm(bool enable) { } //bloquea los componentes del formulario
+
+    private virtual void CleanForm() { } //limpia los valores de formulario

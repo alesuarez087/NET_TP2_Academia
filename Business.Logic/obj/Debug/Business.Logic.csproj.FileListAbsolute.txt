@@ -1,0 +1,18 @@
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\alepe\Desktop\TP2\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\alepe\Desktop\TP2\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\alepe\Desktop\TP2\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\TP2\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\alepe\Desktop\TP2\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\TP2\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\alepe\Desktop\TP2\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\alepe\Desktop\TP2\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\alepe\Desktop\TP2\Business.Logic\obj\Debug\Business.Logic.pdb

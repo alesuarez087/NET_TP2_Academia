@@ -1,0 +1,10 @@
+<asp:Panel ID="formPanel" Visible="false" runat="server">
+        <br /><br />
+        <asp:Label ID="lblDescripcion" runat="server" Text="Descripción: "></asp:Label>
+        <asp:TextBox ID="txtDescripcion" runat="server"></asp:TextBox>
+        <br />
+        <asp:Panel ID="formActionsPanel" runat="server">
+            <asp:LinkButton ID="lnkbtnAceptar" runat="server" OnClick="lnkbtnAceptar_Click">Aceptar </asp:LinkButton>
+            <asp:LinkButton ID="lnkbtnCancelar" runat="server">Cancelar</asp:LinkButton>
+        </asp:Panel>
+    </asp:Panel>

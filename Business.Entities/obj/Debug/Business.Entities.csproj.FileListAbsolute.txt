@@ -1,0 +1,52 @@
+C:\Net\Labs\TP2L03\TP2\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Net\Labs\TP2L03\TP2\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Net\Labs\TP2L03\TP2\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Net\Labs\TP2L03\TP2\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2-Master\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2-Master\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2-Master\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2-Master\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2-Master\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Source\Repos\TP2Net\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Alejandro\Source\Repos\TP2Net\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Source\Repos\TP2Net\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Alejandro\Source\Repos\TP2Net\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\David\Documents\GitHub\TP2Net\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\David\Documents\GitHub\TP2Net\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\David\Documents\GitHub\TP2Net\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\David\Documents\GitHub\TP2Net\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\David\Documents\GitHub\TP2Net\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\note\TP2Net\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\note\TP2Net\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\note\TP2Net\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\alepe\Desktop\note\TP2Net\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\note\TP2Net\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\TP2Net\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\TP2Net\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\TP2Net\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\alepe\Desktop\TP2Net\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\TP2Net\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\TP2\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\TP2\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\TP2\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\TP2\Business.Entities\obj\Debug\Business.Entities.pdb

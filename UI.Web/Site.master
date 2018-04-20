@@ -1,0 +1,106 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Home</title>
+
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="~/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <link href="~/css/dashboard.css"   rel="stylesheet">
+
+    <script src="<%= ResolveClientUrl("~/assets/js/ie-emulation-modes-warning.js") %>"></script>
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+  </head>
+
+  <body>
+      <form runat="server">
+      
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand">Universidad Tecnológica Nacional - Facultad Regional Rosario</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse center-block">
+          <ul class="nav navbar-nav navbar-right">
+              <li><a href="../Logout.aspx">Cerrar Sesión</a></li>
+          </ul>
+          
+        </div>
+      </div>
+    </nav>
+
+
+
+
+    
+     
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3 col-md-2 sidebar">
+                <ul class="nav nav-sidebar">
+                    <li class="active"><a>Bienvenido<span class="sr-only">(current)</span></a></li> 
+                    <asp:Panel id="pnAdmin" runat="server" CssClass="nav" Visible="false">
+                        <li><a href="../Administrador/Especialidades.aspx">Especialidades</a></li>
+                        <li><a href="../Administrador/Planes.aspx">Planes</a></li>
+                        <li><a href="../Administrador/Materias.aspx">Materias</a></li>
+                        <li><a href="../Administrador/Comisiones.aspx" >Comisiones</a></li>
+                        <li><a href="../Administrador/Cursos.aspx">Cursos</a></li>
+                        <li><a href="../Administrador/PlantillaPersona.aspx">Personas</a></li>
+                        <li><a href="../Administrador/Usuarios.aspx">Usuarios</a></li>
+                        <li><a href="../Administrador/Inscribir.aspx">Inscribir Alumno</a></li>
+                    </asp:Panel>
+                    <asp:Panel ID="pnDocente" runat="server" CssClass="nav" Visible="false">
+                        <li><a href="../Docentes/RegistrarNota.aspx">Registrar Notas</a></li>
+                    </asp:Panel>
+                    <asp:Panel ID="pnAlumno" runat="server" CssClass="nav" Visible="false">
+                        <li><a href="../Alumnos/ResumenInscripciones.aspx">Inscripciones</a></li>
+                        <li><a href="../Alumnos/EstadoAcademico.aspx">Estado Académico</a></li>
+                    </asp:Panel>
+                    <asp:Panel id="pnComun" runat="server" CssClass="nav" Visible="false">
+                        <li><a href="../Administrador/PlantillaUsuario.aspx">Cambiar Contraseña</a></li>
+                    </asp:Panel>
+                </ul>
+            </div>
+            
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+
+        </div>
+    </div>
+
+
+    
+        
+</form>
+      
+
+
+    
+    
+          
+
+
+    
+    
+    <script src=<%= ResolveClientUrl("/assets/js/ie10-viewport-bug-workaround.js") %>></script>
+  </body>
+</html>

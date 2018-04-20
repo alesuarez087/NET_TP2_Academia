@@ -1,0 +1,81 @@
+<tr>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                    </tr>
+
+<asp:Panel ID="formPanel" Visible="false" runat="server">
+        <br /><br />
+        
+
+
+
+
+
+        <br />
+        
+        
+        <br />
+        
+        
+        <br />
+        
+        
+        <br />
+        
+        
+        <br />
+        
+        
+        <br />
+        
+        
+        <br />
+        <asp:Panel ID="formActionsPanel" runat="server">
+            
+            
+        </asp:Panel>
+    </asp:Panel>
+
+
+
+
+
+protected void gvModulos_RowEditing(object sender, GridViewEditEventArgs e)
+    {
+        this.gvModulos.EditIndex = e.NewEditIndex;
+        this.CargaModulos();
+    }
+    protected void gvModulos_RowCancelingEdit(object sender, GridViewCancelEditEventArgs e)
+    {
+        this.gvModulos.EditIndex = -1;
+        this.CargaModulos();
+    }
+    protected void gvModulos_RowUpdating(object sender, GridViewUpdateEventArgs e)
+    {
+        CheckBox chckbxAlta = (CheckBox)gvModulos.Rows[e.RowIndex].FindControl("CheckAlta");
+        CheckBox chckbxBaja = (CheckBox)gvModulos.Rows[e.RowIndex].FindControl("CheckBaja");
+        CheckBox chckbxConsulta = (CheckBox)gvModulos.Rows[e.RowIndex].FindControl("CheckConsulta");
+        CheckBox chckbxModificacion = (CheckBox)gvModulos.Rows[e.RowIndex].FindControl("CheckModificacion");
+
+        int ID = Convert.ToInt32(gvModulos.DataKeys[e.RowIndex].Values[0].ToString());
+        bool AltaOriginal = Convert.ToBoolean(gvModulos.DataKeys[e.RowIndex].Values[2].ToString());
+        bool BajaOriginal = Convert.ToBoolean(gvModulos.DataKeys[e.RowIndex].Values[3].ToString());
+        bool ConsultaOriginal = Convert.ToBoolean(gvModulos.DataKeys[e.RowIndex].Values[4].ToString());
+        bool ModificacionOriginal = Convert.ToBoolean(gvModulos.DataKeys[e.RowIndex].Values[5].ToString());
+
+        foreach(ModuloUsuario mu in ModuloUsuarioSeleccionado)
+        {
+            if(mu.IdModulo == ID)
+            {
+                mu.PermiteAlta = chckbxAlta.Checked;
+                mu.PermiteBaja = chckbxBaja.Checked;
+                mu.PermiteConsulta = chckbxConsulta.Checked;
+                mu.PermiteModificacion = chckbxModificacion.Checked;
+            }
+        }
+
+        this.gvModulos.EditIndex = -1;
+        this.CargaModulos();
+    }

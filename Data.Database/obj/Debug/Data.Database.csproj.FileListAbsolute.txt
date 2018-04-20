@@ -1,0 +1,72 @@
+C:\Net\Labs\TP2L03\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Net\Labs\TP2L03\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Net\Labs\TP2L03\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Net\Labs\TP2L03\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Net\Labs\TP2L03\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Net\Labs\TP2L03\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Net\Labs\TP2L03\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\LENI-ALUMNO\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2-Master\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2-Master\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Alejandro\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Alejandro\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Alejandro\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Alejandro\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Alejandro\Source\Repos\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\David\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\David\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\David\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\David\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\David\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\David\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Alejandro\Documents\Visual Studio 2013\Projects\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Alejandro\Documents\GitHub\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\alepe\Desktop\note\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\alepe\Desktop\note\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\alepe\Desktop\note\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\note\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\note\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\alepe\Desktop\note\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\alepe\Desktop\note\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\alepe\Desktop\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\alepe\Desktop\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\alepe\Desktop\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\TP2Net\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\alepe\Desktop\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\alepe\Desktop\TP2Net\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\alepe\OneDrive\Documentos\Visual Studio 2013\Projects\TP2\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\alepe\Desktop\TP2\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\alepe\Desktop\TP2\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\alepe\Desktop\TP2\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\alepe\Desktop\TP2\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\alepe\Desktop\TP2\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\alepe\Desktop\TP2\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\alepe\Desktop\TP2\Data.Database\obj\Debug\Data.Database.pdb
